@@ -1,2 +1,2 @@
 # primitive-typing-game.
-a primitve typing game in C++
+a primitve typing game in C++ for windows.
